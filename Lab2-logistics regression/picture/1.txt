@@ -1,0 +1,6 @@
+newton 1.0
+gd 1.0
+gdr 0.99
+newton 0.9825
+gd 0.985
+gdr 0.9825
